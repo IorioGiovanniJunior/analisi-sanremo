@@ -1,12 +1,12 @@
-# analisi-sanremo
-🎶 Analisi del Festival di Sanremo (1951–oggi)
-📌 Descrizione del progetto
+# analisi sanremo
+🎶 **Analisi del Festival di Sanremo (1951–oggi)**
+📌 **Descrizione del progetto**
 
 Questo progetto nasce dall’analisi dei dataset di Sanremo (fonte GitHub giuschil) con l’obiettivo di studiare l’evoluzione del Festival nel tempo, dai partecipanti ai conduttori, dalla durata agli artisti vincitori, fino alla popolarità dei brani su Spotify.
 
 Il lavoro è stato sviluppato in Excel, Jupyter Lab (Python/Pandas) e Looker Studio, con una parte finale di storytelling a supporto dei dati.
 
-🛠️ Diario di bordo – Fasi del lavoro
+**🛠️ Diario di bordo – Fasi del lavoro**
 1. Preparazione dei dati
 
 Apertura iniziale dei file in Excel per una panoramica generale.
@@ -65,7 +65,7 @@ I brani vincitori hanno in media +10% popolarità rispetto agli altri, ma non è
 
 Tabella: canzoni non vincitrici che hanno superato la popolarità dei brani vincitori del loro anno.
 
-📊 Visualizzazione in Looker Studio
+**📊 Visualizzazione in Looker Studio**
 
 Dati preparati e puliti per facile integrazione.
 
